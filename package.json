@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.1.0"
+  },
+  "name": "cursonode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/marcelobrme/cursonode.git",
+  "license": "MIT"
+}
